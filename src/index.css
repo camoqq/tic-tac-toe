@@ -3,7 +3,8 @@ h1 {
 }
 body {
   text-align: center;
-  background-color: rgb(234, 241, 241);
+  /* background-color: rgb(234, 241, 241); */
+  background-color: red;
 }
 .btn {
   width: 7rem;
